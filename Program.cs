@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.ForegroundColor = ConsoleColor.White;
+            Console.ForegroundColor = ConsoleColor.green;
             Console.WriteLine("welcole to the guessing number game. you should guess your nymber and system say to you this number is big or no.");
             Console.WriteLine("you can guess 10 number if you cant say correct number you will failed");
             Console.WriteLine("you can find me with this email arminparsa789@gmail.com")
@@ -52,4 +52,5 @@ namespace ConsoleApp1
         }
     }
 }
+
 
